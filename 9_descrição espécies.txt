@@ -1,0 +1,97 @@
+Descrição das espécies
+
+------------------ Herbácea ------------------ 
+Abacaxi 
+Nome Popular: Abacaxi 
+Nome Científico: Ananas comosus (italico)
+Uma espécie Bromélia nativa da America do Sul, é fonte de vitaminas A e B1, além de potássio e cálcio.
+Rende 8 sementes
+
+Feijão-de-porco
+Nome Popular: Feijão-de-porco ou Fava-brava
+Nome Científico: Canavalia ensiformis (italico)
+Uma espécie Herbácea nativa da América Central, é fonte de proteínas e minerais como ferro, fósforo, cálcio e potássio.
+Rende 4 sementes
+
+Jerimum
+Nome Popular: Jerimum ou Abóbora
+Nome Científico: Cucurbita moschata (italico)
+Uma espécie Herbácea rasteira nativa do México, é uma fonte de vitaminas C e E, além de potássio, ácido fólico e betacaroteno.
+Rende 8 sementes
+
+Miho
+Nome Popular: Miho
+Nome Científico: Zea mays (italico)
+Uma espécie Herbácea nativa da América Central, é fonte de vitaminas do complexo B, magnésio, potássio e fósforo.
+Rende 4 sementes
+------------------ Arbórea Nativa ------------------ 
+Cajá
+Nome Popular: Cajá
+Nome Científico: Spondias mombin (italico)
+Uma espécie Arbórea nativa do Brasil, é fonte de vitaminas A, B e C, além de fibras.
+Rende 30 sementes
+
+Caju
+Nome Popular: Caju
+Nome Científico: Anacardium occidentale (italico)
+Uma espécie Arbórea nativa do Brasil, é fonte de vitaminas A, C e complexo B, além de sais minerais como cálcio, fósforo e ferro.
+Rende 25 sementes
+
+Ipê-roxo
+Nome Popular: Ipê-roxo
+Nome Científico: Handroanthus impetiginosus (italico)
+Uma espécie Arbórea nativa do Brasil.
+Rende 20 sementes
+
+Pitanga
+Nome Popular: Pitanga
+Nome Científico: Eugenia uniflora (italico)
+Uma espécie Arbórea nativa do Brasil, é fonte de vitaminas A, C e complexo B, além de fósforo e cálcio.
+Rende 30 sementes
+
+Pitomba
+Nome Popular: Pitomba
+Nome Científico: Talisia esculenta (italico)
+Uma espécie Arbórea nativa do Brasil, é fonte de vitaminas A, C e antioxidantes.
+Rende 40 sementes
+
+------------------ Arbórea Exótica ------------------ 
+
+Acerola
+Nome Popular: Acerola
+Nome Científico: Malpighia glabra (italico)
+Uma espécie Arbórea nativa da América Central, é fonte de vitamina C, ferro, cálcio, flúor e proteínas.
+Rende 20 sementes
+
+
+Bananeiras
+Nome Popular: Bananeiras
+Nome Científico: Musa sp. (italico)
+Uma espécie Herbácea nativa da Ásia, é fonte de vitaminas A, complexo B, C, ácido fólico, carboidratos, potássio, cálcio, fibras e magnésio.
+Rende 20 sementes
+
+Graviola
+Nome Popular: Graviola
+Nome Científico: Annona muricata (italico)
+Uma espécie Arbórea nativa das Antilhas, é fonte de vitaminas do complexo B e C.
+Rende 30 sementes
+
+Mamão
+Nome Popular: Mamão
+Nome Científico: Carica papaya (italico)
+Uma espécie Arbórea nativa da América Central, é fonte de vitaminas C, E e K, além de fibras e minerais como cálcio, ferro, fósforo, magnésio, potássio e zinco.
+Rende 20 sementes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
