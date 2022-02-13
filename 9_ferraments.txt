@@ -1,0 +1,5 @@
+Descrição de Ferramentas:
+Enxada - Use a enxada para preparar o solo antes de plantar.
+Regador - Use o regador para aguar suas plantas, todas precisam ser regadas para crescerem saudáveis.
+Machado - Use o machado para retirar plantas e abrir espaço na sua plantação.
+Tesourão - Use o tesourão para podar e diminuir o tamanho de algumas plantas.

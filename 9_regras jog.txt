@@ -1,0 +1,12 @@
+Regras do Jogo:
+
+Uma agrofloresta é um sistema em que plantas que fazem parte da floresta local são plantadas junto de espécies de cultivo agrícola, muito utilizadas com a intenção de recuperar áreas degradadas e desenvolver um plantio saudável para o meio ambiente.
+Então, veja as regras de como o jogo funciona.
+
+Regras
+Você deve usar ferramentas para cuidar da sua Agrofloresta:
+Enxada, regador, machado e tesourão.
+Para plantar é necessário arar o solo com uma enxada, e observar que cada planta possui um solo adequado, quantidade de água e iluminação.
+Para melhorar a fertilidade do solo, você deve plantar espécies menos exigentes antes no mesmo local, a cor do solo inclusive irá mudar.
+Com o solo fértil, você pode cultivar as plantas que quiser.
+Fazer a colheita, podar e retirar algumas espécies sempre darão material necessário para conseguir novas sementes e crescer sua agrofloresta.
